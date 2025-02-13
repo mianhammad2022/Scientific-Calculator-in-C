@@ -12,6 +12,7 @@ void text();
 	graphics();
 	text();
 	}
+name hammad extra
 		void graphics()
 		{
 		intgd=DETECT, gm;
